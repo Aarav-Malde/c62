@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "attendance_app-",
+    "slug": "snack-7d71b45e-c3b9-4b4b-8eaf-1dc3c7a4d3ee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "boi boi this app is really descriptive, i am banging my keyboard. Check ur cps on clicking present and absent. Boi boi why r u even trying to read at this point lol bye cya l8er\n"
+  }
+}
